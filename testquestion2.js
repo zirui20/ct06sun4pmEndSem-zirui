@@ -1,1 +1,3 @@
-function setu
+function setup() {
+    createCanvas()
+}
