@@ -7,6 +7,6 @@ function draw() {
     background("black");
 
     fill('pink');
-    textSize(20);
     textAllign(CENTER,CENTER);
+    textSize(20);
 }
