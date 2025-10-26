@@ -5,14 +5,14 @@ function setup() {
     createCanvas(200,300);
 }
 function draw() {
-    background("white");
+    background("black");
 
     fill('pink');
     textAllign(CENTER,CENTER);
     textSize(20);
 
     for(let i=6; i<pokemons.length; i++ ) {
-        
+
     }
 
 }
